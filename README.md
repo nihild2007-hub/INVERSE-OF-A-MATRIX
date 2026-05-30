@@ -20,8 +20,8 @@ End the program
 
 ## Program:
 ```
-#Developed by: Mohamed Ukkas R
-#RegisterNumber: 212225040245
+#Developed by: Nihil D
+#RegisterNumber: 212225040279
 
 import os 
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
